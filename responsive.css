@@ -1,0 +1,362 @@
+@media (min-width: 1200px) and (max-width: 1299px) {
+    .container {
+        width: 500px;
+    }
+
+    #add-btn {
+        border-radius: 8px;
+        font-size: 1.22em;
+        margin-bottom: 1em;
+        padding: 0.75em 0;
+    }
+
+    #note {
+        border-radius: 8px;
+    }
+
+    .note-counter,
+    .note-btn {
+        padding: 9px;
+    }
+
+    .note-counter {
+        font-size: 10px;
+    }
+
+    .note-title {
+        font-size: 1.2em;
+    }
+
+    .note-text {
+        padding: 0 10px;
+    }
+
+    .app {
+        padding: 2em 3em;
+    }
+
+    #note-title {
+        font-size: 2.7em;
+    }
+
+    #note-text {
+        font-size: 1.1em;
+        line-height: 1.5;
+        margin-top: 1.7em;
+    }
+
+    .note-btn {
+        margin-top: 5px;
+        margin-right: 5px;
+        padding: 5px;
+        font-size: 20px;
+    }
+
+    .edit-btn {
+        margin-top: 5px;
+        padding: 5px;
+        font-size: 20px;
+
+    }
+}
+
+/* @media (min-width: 992px) and (max-width:1199px) {
+    .container {
+        width: 500px;
+    }
+
+    #add-btn {
+        
+    }
+
+    #note {
+        
+    }
+
+    .note-counter,
+    .note-btn {
+        
+    }
+
+    .note-counter {
+        
+    }
+
+    .note-title {
+        
+    }
+
+    .note-text {
+        
+    }
+
+    .app {
+        
+    }
+
+    #note-title,
+    #note-text {
+        
+    }
+
+    #note-title {
+        
+    }
+
+    #note-text {
+        
+    }
+
+    .note-btn {
+
+    }
+
+    .edit-btn {
+        
+    }
+}
+
+@media (min-width: 768px) and (max-width:991px) {
+    .container {
+        width: 250px;
+    }
+
+    #add-btn {
+        
+    }
+
+    #note {
+        
+    }
+
+    .note-counter,
+    .note-btn {
+        
+    }
+
+    .note-counter {
+        
+    }
+
+    .note-title {
+        
+    }
+
+    .note-text {
+        
+    }
+
+    .app {
+        
+    }
+
+    #note-title,
+    #note-text {
+        
+    }
+
+    #note-title {
+        
+    }
+
+    #note-text {
+        
+    }
+
+    .note-btn {
+
+    }
+
+    .edit-btn {
+        
+    }
+} */
+
+@media (max-width:767px) {
+    .container {
+        width: 200px;
+    }
+
+    #add-btn {
+        border-radius: 15px;
+        font-size: 0.8em;
+        margin-bottom: 1em;
+        padding: 0.75em 0;
+    }
+
+    #note {
+        border-radius: 10px;
+        margin-bottom: 1em;
+    }
+
+    .note-counter,
+    .note-btn {
+        padding: 5px;
+    }
+
+    .note-counter {
+        font-size: 7px;
+    }
+
+    .note-title {
+        font-size: 0.7em;
+    }
+
+    .note-text {
+        padding: 0 10px;
+        font-size: 0.6em;
+        line-height: 1.5;
+    }
+
+    .app {
+        padding: 1em 2em;
+    }
+
+    #note-title {
+        font-size: 1.1em;
+    }
+
+    #note-text {
+        font-size: 0.7em;
+        line-height: 1.5;
+        margin-top: 1em;
+    }
+
+    .note-btn {
+        margin-top: 2px;
+        margin-right: 2px;
+        padding: 5px;
+        font-size: 9px;
+    }
+
+    .edit-btn {
+        margin-top: 2px;
+        padding: 5px;
+        font-size: 9px;
+
+    }
+}
+
+/* @media (max-width:480px) {
+    .container {
+        width: 200px;
+    }
+
+    #add-btn {
+        border-radius: 25px;
+        font-size: 1.22em;
+        margin-bottom: 1em;
+        padding: 0.75em 0;
+    }
+
+    #note {
+        border-radius: 8px;
+    }
+
+    .note-counter,
+    .note-btn {
+        padding: 9px;
+    }
+
+    .note-counter {
+        font-size: 10px;
+    }
+
+    .note-title {
+        font-size: 1.2em;
+    }
+
+    .note-text {
+        padding: 0 10px;
+    }
+
+    .app {
+        padding: 2em 3em;
+    }
+
+    #note-title {
+        font-size: 2.7em;
+    }
+
+    #note-text {
+        font-size: 1.1em;
+        line-height: 1.5;
+        margin-top: 1.7em;
+    }
+
+    .note-btn {
+        margin-top: 5px;
+        margin-right: 5px;
+        padding: 5px;
+        font-size: 20px;
+    }
+
+    .edit-btn {
+        margin-top: 5px;
+        padding: 5px;
+        font-size: 20px;
+
+    }
+}
+
+@media (max-width:320px) {
+    .container {
+        width: 100px;
+    }
+
+    #add-btn {
+        border-radius: 29px;
+        font-size: 1.22em;
+        margin-bottom: 1em;
+        padding: 0.75em 0;
+    }
+
+    #note {
+        border-radius: 8px;
+    }
+
+    .note-counter,
+    .note-btn {
+        padding: 9px;
+    }
+
+    .note-counter {
+        font-size: 10px;
+    }
+
+    .note-title {
+        font-size: 1.2em;
+    }
+
+    .note-text {
+        padding: 0 10px;
+    }
+
+    .app {
+        padding: 2em 3em;
+    }
+
+    #note-title {
+        font-size: 2.7em;
+    }
+
+    #note-text {
+        font-size: 1.1em;
+        line-height: 1.5;
+        margin-top: 1.7em;
+    }
+
+    .note-btn {
+        margin-top: 5px;
+        margin-right: 5px;
+        padding: 5px;
+        font-size: 5px;
+    }
+
+    .edit-btn {
+        margin-top: 5px;
+        padding: 5px;
+        font-size: 5px;
+
+    }
+} */
